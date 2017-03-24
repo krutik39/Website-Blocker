@@ -1,0 +1,4 @@
+Program Architecture
+
+/etc/hosts - For Mac and Linux - # File path to host file.
+/private/etc
